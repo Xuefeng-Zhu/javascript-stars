@@ -33,6 +33,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ## Component
 * [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips
+* [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
 * [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
 * [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 * [card](https://github.com/jessepollak/card) - make your credit card form better in one line of code
@@ -44,7 +45,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [pourover](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
 * [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
 * [tableExport.jquery.plugin](https://github.com/kayalshri/tableExport.jquery.plugin) - "table2JSON", "table2XML", "table2PNG","table2CSV","table2Excel","table2Word","table2Powerpoint","table2txt","table2PDF"
-
+* [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 
 ## Editor
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
@@ -79,6 +80,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 ## Layout
 * [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
 * [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
+* [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 * [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 * [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
 * [holder](https://github.com/imsky/holder) - Client-side image placeholders. 
@@ -140,9 +142,12 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key. 
 * [date](https://github.com/matthewmueller/date) - Date() for humans 
 * [fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
+* [brain](https://github.com/harthur/brain) - Neural networks in JavaScript
+
 
 ## Reference
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
 * [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript

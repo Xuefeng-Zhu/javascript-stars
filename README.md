@@ -30,6 +30,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time
 * [motorcortexjs](https://github.com/andreas-trad/motorcortexjs) - web animations made easy
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
+* [rebound-js](https://github.com/facebook/rebound-js) - Spring dynamics in JavaScript
 
 ## Component
 * [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips
@@ -61,7 +62,8 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [Fluidbox](https://github.com/terrymun/Fluidbox) - Replicating and improving the lightbox module seen on Medium with fluid transitions.
 * [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated low-poly triangle backgrounds
 * [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript 
-
+* [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design 
+* [rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window 
 
 ## Framework
 * [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
@@ -76,6 +78,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG
 * [fabric.js](https://github.com/kangax/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser 
 * [CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation 
+* [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 
 ## Layout
 * [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it

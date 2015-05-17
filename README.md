@@ -15,6 +15,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
     - [Mobile](#mobile)
     - [Presentation](#presentation)
     - [Progress](#progress)
+    - [Scroll](#scroll)
     - [Test](#test)
     - [Visualization](#visualization)
     - [Utils](#utils)
@@ -27,6 +28,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
 * [bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time
 * [motorcortexjs](https://github.com/andreas-trad/motorcortexjs) - web animations made easy
+* [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
 
 ## Component
 * [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips
@@ -54,6 +56,9 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
 * [anijs](https://github.com/anijs/anijs) - A Library to Raise your Web Design without Coding
 * [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
+* [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
+* [polymer](https://github.com/Polymer/polymer) - Leverage the future of the web platform today
+* [starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit (Beta)
 
 ## Layout
 * [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
@@ -72,11 +77,21 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ## Presentation
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
+* [Sequence](https://github.com/IanLunn/Sequence) - Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications. 
+
 
 ## Progress
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 * [Fort.js](https://github.com/idriskhenchil/Fort.js) - Modern progress bar for form completion
+
+## Scroll
+* [steady.js](https://github.com/WPOTools/steady.js) - A module to do some logic on the `onscroll` event without performance regressions in a @media-query like conditions. 
+* [Parallax-ImageScroll](https://github.com/pederan/Parallax-ImageScroll) - JQuery and amd compatible plugin to create a parallax effect as seen at spotify.com
+* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Easily reveal elements as they enter the viewport
+* [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
+* [ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions
+* [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin 
 
 ## Test
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework
@@ -93,6 +108,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
 * [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager) - A responsive state manager which allows you to run different javascript at different browser widths
 * [ouibounce](https://github.com/carlsednaoui/ouibounce) - Increase your landing page conversion rates
+* [boba.js](https://github.com/space150/boba.js) - Need those links tracked? "As you wish."
 
 ## Reference
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development

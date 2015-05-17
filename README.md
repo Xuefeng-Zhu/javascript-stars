@@ -10,6 +10,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
     - [Editor](#editor)
     - [Effect](#effect)
     - [Framework](#framework)
+    - [HTML5](#html5)
     - [Layout](#layout)
     - [Media](#media)
     - [Mobile](#mobile)
@@ -45,12 +46,15 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
 * [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
 * [write-good](https://github.com/btford/write-good) - Naive linter for English prose
+* [side-comments](https://github.com/aroc/side-comments) - An interface component to give your site/app Medium.com style commenting
 
 ## Effect
 * [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
 * [shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
+* [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
 * [Fluidbox](https://github.com/terrymun/Fluidbox) - Replicating and improving the lightbox module seen on Medium with fluid transitions.
+* [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated low-poly triangle backgrounds
 
 ## Framework
 * [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
@@ -59,6 +63,9 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
 * [polymer](https://github.com/Polymer/polymer) - Leverage the future of the web platform today
 * [starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit (Beta)
+
+## HTML5
+* [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG
 
 ## Layout
 * [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
@@ -70,15 +77,17 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [popcorn-js](https://github.com/mozilla/popcorn-js) - The HTML5 Media Framework
 * [SoundManager2](https://github.com/scottschiller/SoundManager2) - A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 11 KB. BSD licensed.
 * [jquery_lazyload](https://github.com/tuupola/jquery_lazyload) - jQuery plugin for lazy loading images
+* [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 
 ## Mobile
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
+* [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). 
 
 ## Presentation
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 * [Sequence](https://github.com/IanLunn/Sequence) - Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications. 
-
+* [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript
 
 ## Progress
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
@@ -92,6 +101,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
 * [ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions
 * [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin 
+* [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 
 ## Test
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework
@@ -109,7 +119,10 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager) - A responsive state manager which allows you to run different javascript at different browser widths
 * [ouibounce](https://github.com/carlsednaoui/ouibounce) - Increase your landing page conversion rates
 * [boba.js](https://github.com/space150/boba.js) - Need those links tracked? "As you wish."
+* [outdated-browser](https://github.com/burocratik/outdated-browser) - A simple tool to identify and upgrade old browsers
+* [node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
 
 ## Reference
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
+* [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book

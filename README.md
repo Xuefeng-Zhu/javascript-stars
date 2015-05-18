@@ -52,6 +52,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 * [strip](https://github.com/staaky/strip) - Strip - A Less Intrusive Responsive Lightbox 
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent 
+* [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 
 ## Data
 * [pourover](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
@@ -60,6 +61,8 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [excellentexport](https://github.com/jmaister/excellentexport) - Javascript export to Excel
 * [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 * [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
+* [defiant.js](https://github.com/hbi99/defiant.js) - DefiantJS provides the ability for you to build smart templates applicable on JSON structures, based upon proven & standardized technologies such as XSLT and XPath.
+
 
 ## Editor
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
@@ -67,7 +70,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 * [side-comments](https://github.com/aroc/side-comments) - An interface component to give your site/app Medium.com style commenting
 * [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application. 
-
+* [blockly](https://github.com/google/blockly) - The web-based visual programming editor. 
 
 ## Effect
 * [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
@@ -116,13 +119,16 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [SoundManager2](https://github.com/scottschiller/SoundManager2) - A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 11 KB. BSD licensed.
 * [jquery_lazyload](https://github.com/tuupola/jquery_lazyload) - jQuery plugin for lazy loading images
 * [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
+* [plyr](https://github.com/Selz/plyr) - A simple HTML5 media player 
+
 
 ## Mobile
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
 * [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). 
 * [reapp](https://github.com/reapp/reapp) - Reapp - next gen hybrid apps 
-
+* [Swiper](https://github.com/nolimits4web/Swiper) - Most modern mobile touch slider with hardware accelerated transitions 
+* [slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps. 
 
 ## Presentation
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -208,3 +214,10 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
 * [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
 * [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
+* [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
+* [react-primer-draft](https://github.com/mikechau/react-primer-draft) - A primer for building web applications with React.
+* [collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
+
+
+

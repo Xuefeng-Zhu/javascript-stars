@@ -46,6 +46,9 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. 
 * [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library 
 * [alertify.js](https://github.com/fabien-d/alertify.js) - JavaScript Alert/Notification System 
+* [rollerblade](https://github.com/austenpayan/rollerblade) - A jQuery plugin for creating an interactive 360º image rotator.
+* [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+* [strip](https://github.com/staaky/strip) - Strip - A Less Intrusive Responsive Lightbox 
 
 ## Data
 * [pourover](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
@@ -53,6 +56,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [tableExport.jquery.plugin](https://github.com/kayalshri/tableExport.jquery.plugin) - "table2JSON", "table2XML", "table2PNG","table2CSV","table2Excel","table2Word","table2Powerpoint","table2txt","table2PDF"
 * [excellentexport](https://github.com/jmaister/excellentexport) - Javascript export to Excel
 * [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
+* [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
 
 ## Editor
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
@@ -91,9 +95,11 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 * [sharedrop](https://github.com/cowbell/sharedrop) - HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC 
 * [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time. 
+* [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+) 
 
 ## Layout
 * [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
+* [midnight.js](https://github.com/Aerolab/midnight.js) - A jQuery plugin to switch fixed headers on the fly 
 * [fullPage.js](https://github.com/alvarotrigo/fullPage.js) - fullPage plugin by Alvaro Trigo. Create full screen pages fast and simple
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 * [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
@@ -123,6 +129,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
 * [SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 * [Fort.js](https://github.com/idriskhenchil/Fort.js) - Modern progress bar for form completion
+* [progressbar.js](https://github.com/kimmobrunfeldt/progressbar.js) - Beautiful and responsive progress bars 
 
 ## Scroll
 * [steady.js](https://github.com/WPOTools/steady.js) - A module to do some logic on the `onscroll` event without performance regressions in a @media-query like conditions. 
@@ -136,17 +143,22 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ## Test
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework
+* [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 
 ## Visualization
 * [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag
 * [kartograph.js](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps
 * [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts | Github pages
 * [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library 
+* [d3plus](https://github.com/alexandersimoes/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
+* [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive random colors
 * [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
 * [gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps 
 * [p5.js](https://github.com/processing/p5.js) - A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing
 * [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets 
+* [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts. 
+* [regulex](https://github.com/JexCheng/regulex) - JavaScript Regular Expression Parser & Visualizer. 
 
 ## Utils
 * [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
@@ -165,12 +177,19 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
 * [brain](https://github.com/harthur/brain) - Neural networks in JavaScript
 * [hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect 
+* [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js 
+* [101](https://github.com/tjmehta/101) - A modern JS utility library
+* [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript 
+
 
 
 ## Reference
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
 * [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
 * [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 * [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
 * [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
 * [js](https://github.com/bevacqua/js) - A JavaScript Quality Guide
+* [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
+* [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. 

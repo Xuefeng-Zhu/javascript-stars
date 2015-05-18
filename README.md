@@ -32,6 +32,8 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
 * [rebound-js](https://github.com/facebook/rebound-js) - Spring dynamics in JavaScript
 * [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
+* [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms 
+
 
 ## Component
 * [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips
@@ -49,6 +51,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [rollerblade](https://github.com/austenpayan/rollerblade) - A jQuery plugin for creating an interactive 360º image rotator.
 * [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 * [strip](https://github.com/staaky/strip) - Strip - A Less Intrusive Responsive Lightbox 
+* [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent 
 
 ## Data
 * [pourover](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
@@ -86,6 +89,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit (Beta)
 * [tessera](https://github.com/urbanairship/tessera) - A dashboard front-end for graphite. 
 * [uilang](https://github.com/bendc/uilang) - A minimal, UI-focused programming language for web designers
+* [toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp. 
 
 ## HTML5
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG
@@ -96,6 +100,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [sharedrop](https://github.com/cowbell/sharedrop) - HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC 
 * [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time. 
 * [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+) 
+* [matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web
 
 ## Layout
 * [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
@@ -116,6 +121,8 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
 * [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
 * [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). 
+* [reapp](https://github.com/reapp/reapp) - Reapp - next gen hybrid apps 
+
 
 ## Presentation
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
@@ -124,6 +131,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps
 * [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app #hubspot-open-source
 * [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+* [hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface: 
 
 ## Progress
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
@@ -143,6 +151,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ## Test
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework
+* [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework
 * [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 
 ## Visualization
@@ -158,7 +167,8 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [p5.js](https://github.com/processing/p5.js) - A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing
 * [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets 
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts. 
-* [regulex](https://github.com/JexCheng/regulex) - JavaScript Regular Expression Parser & Visualizer. 
+* [regulex](https://github.com/JexCheng/regulex) - JavaScript Regular Expression Parser & Visualizer.
+* [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
 
 ## Utils
 * [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
@@ -180,8 +190,9 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js 
 * [101](https://github.com/tjmehta/101) - A modern JS utility library
 * [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript 
-
-
+* [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
+* [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
+* [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 
 ## Reference
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -193,3 +204,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [js](https://github.com/bevacqua/js) - A JavaScript Quality Guide
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. 
+* [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
+* [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+* [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns

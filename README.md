@@ -49,14 +49,14 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 
 ## Data
+* [defiant.js](https://github.com/hbi99/defiant.js) - DefiantJS provides the ability for you to build smart templates applicable on JSON structures, based upon proven & standardized technologies such as XSLT and XPath.
 * [pourover](https://github.com/NYTimes/pourover) - A library for simple, fast filtering and sorting of large collections in the browser
-* [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+* [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily 
 * [tableExport.jquery.plugin](https://github.com/kayalshri/tableExport.jquery.plugin) - "table2JSON", "table2XML", "table2PNG","table2CSV","table2Excel","table2Word","table2Powerpoint","table2txt","table2PDF"
 * [excellentexport](https://github.com/jmaister/excellentexport) - Javascript export to Excel
 * [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
-* [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
-* [defiant.js](https://github.com/hbi99/defiant.js) - DefiantJS provides the ability for you to build smart templates applicable on JSON structures, based upon proven & standardized technologies such as XSLT and XPath.
-* [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily 
+* [localForage](https://github.com/mozilla/localForage) - Offline storage, improved. Wraps IndexedDB, WebSQL, or localStorage using a simple but powerful API.
+
 
 ## Editor
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
@@ -189,6 +189,8 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts. 
 * [regulex](https://github.com/JexCheng/regulex) - JavaScript Regular Expression Parser & Visualizer.
 * [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
+* [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
+
 
 ## Utils
 * [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy

@@ -62,7 +62,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [PapaParse](https://github.com/mholt/PapaParse) - Fast and powerful CSV (delimited text) parser that gracefully handles large files and malformed input
 * [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
 * [defiant.js](https://github.com/hbi99/defiant.js) - DefiantJS provides the ability for you to build smart templates applicable on JSON structures, based upon proven & standardized technologies such as XSLT and XPath.
-
+* [Clusterize.js](https://github.com/NeXTs/Clusterize.js) - Tiny vanilla JS plugin to display large data sets easily 
 
 ## Editor
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
@@ -104,6 +104,9 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time. 
 * [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+) 
 * [matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web
+* [HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
+* [dragula](https://github.com/bevacqua/dragula) - :helicopter: Drag and drop so simple it hurts 
+* [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
 
 ## Layout
 * [headroom.js](https://github.com/WickyNilliams/headroom.js) - Give your pages some headroom. Hide your header until you need it
@@ -138,6 +141,7 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app #hubspot-open-source
 * [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface: 
+* [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
 
 ## Progress
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source
@@ -154,15 +158,17 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin 
 * [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
 * [scrollup](https://github.com/markgoodyear/scrollup) - A jQuery plugin to create a customisable 'Scroll to top' feature that will work with any website
+* [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling. 
 
 ## Test
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework
+* [Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io 
 * [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework
 * [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 
 ## Visualization
-* [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the <canvas> tag
 * [kartograph.js](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps
+* [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the canvas tag
 * [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts | Github pages
 * [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library 
 * [d3plus](https://github.com/alexandersimoes/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
@@ -199,6 +205,10 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 * [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 * [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
+* [sprint](https://github.com/bendc/sprint) - A tiny, lightning fast jQuery-like library for modern browsers.
+* [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript 
+* [annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition.
+
 
 ## Reference
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
@@ -218,6 +228,9 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
 * [react-primer-draft](https://github.com/mikechau/react-primer-draft) - A primer for building web applications with React.
 * [collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
+* [jquery-annotated-source](https://github.com/robflaherty/jquery-annotated-source) - jQuery Annotated Source
+* [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - classic data structures implemented in javascript.
+* [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
 
 
 

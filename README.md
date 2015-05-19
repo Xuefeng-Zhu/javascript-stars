@@ -67,15 +67,16 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 
 ## Effect
-* [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
+* [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design 
 * [shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
 * [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
 * [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
+* [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
 * [Fluidbox](https://github.com/terrymun/Fluidbox) - Replicating and improving the lightbox module seen on Medium with fluid transitions.
 * [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated low-poly triangle backgrounds
-* [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript 
-* [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design 
 * [rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window 
+* [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript 
+
 
 ## Framework
 * [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device

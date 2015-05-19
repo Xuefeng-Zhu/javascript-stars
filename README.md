@@ -4,6 +4,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 - [Javascript Stars](#javascript-stars)
     - [Animation](#animation)
+    - [Carousel](#carousel)
     - [Component](#component)
     - [Data](#data)
     - [Editor](#editor)
@@ -13,6 +14,8 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
     - [Layout](#layout)
     - [Media](#media)
     - [Mobile](#mobile)
+    - [Notification](#notification)
+    - [Popovers](#popovers)
     - [Presentation](#presentation)
     - [Progress](#progress)
     - [Scroll](#scroll)
@@ -28,29 +31,21 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms 
 * [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 * [bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time
-* [motorcortexjs](https://github.com/andreas-trad/motorcortexjs) - web animations made easy
 * [rebound-js](https://github.com/facebook/rebound-js) - Spring dynamics in JavaScript
 * [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
+* [motorcortexjs](https://github.com/andreas-trad/motorcortexjs) - web animations made easy
 * [stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 
-
-## Component
-* [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips
-* [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
-* [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
-* [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
-* [card](https://github.com/jessepollak/card) - make your credit card form better in one line of code
-* [drop](https://github.com/HubSpot/drop) - A library for creating dropdowns and other floating elements. #hubspot-open-source
-* [pnotify](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft. 
+## Carousel
 * [OwlCarousel](https://github.com/OwlFonk/OwlCarousel) - Owl Carousel. Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
-* [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
-* [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. 
-* [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library 
-* [alertify.js](https://github.com/fabien-d/alertify.js) - JavaScript Alert/Notification System 
 * [rollerblade](https://github.com/austenpayan/rollerblade) - A jQuery plugin for creating an interactive 360º image rotator.
-* [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 * [strip](https://github.com/staaky/strip) - Strip - A Less Intrusive Responsive Lightbox 
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent 
+
+## Component
+* [card](https://github.com/jessepollak/card) - make your credit card form better in one line of code
+* [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. 
+* [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library 
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 
 ## Data
@@ -132,6 +127,13 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [Swiper](https://github.com/nolimits4web/Swiper) - Most modern mobile touch slider with hardware accelerated transitions 
 * [slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps. 
 
+## Notification
+* [alertify.js](https://github.com/fabien-d/alertify.js) - JavaScript Alert/Notification System 
+* [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
+* [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
+* [pnotify](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft. 
+
+
 ## Presentation
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 * [Sequence](https://github.com/IanLunn/Sequence) - Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications. 
@@ -141,6 +143,13 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface: 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+
+## Popovers
+* [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips
+* [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
+* [toolbar](https://github.com/paulkinzett/toolbar) - A tooltip style toolbar jQuery plugin
+* [drop](https://github.com/HubSpot/drop) - A library for creating dropdowns and other floating elements. #hubspot-open-source
+* [Pikaday](https://github.com/dbushell/Pikaday) - A refreshing JavaScript Datepicker — lightweight, no dependencies, modular CSS
 
 ## Progress
 * [pace](https://github.com/HubSpot/pace) - Automatically add a progress bar to your site. #hubspot-open-source

@@ -45,6 +45,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 ## Component
 * [card](https://github.com/jessepollak/card) - make your credit card form better in one line of code
 * [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. 
+* [side-comments](https://github.com/aroc/side-comments) - An interface component to give your site/app Medium.com style commenting
 * [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library 
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 
@@ -61,10 +62,9 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 ## Editor
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
 * [quill](https://github.com/quilljs/quill) - A cross browser rich text editor with an API
-* [write-good](https://github.com/btford/write-good) - Naive linter for English prose
-* [side-comments](https://github.com/aroc/side-comments) - An interface component to give your site/app Medium.com style commenting
-* [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application. 
 * [blockly](https://github.com/google/blockly) - The web-based visual programming editor. 
+* [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application. 
+* [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 
 ## Effect
 * [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device

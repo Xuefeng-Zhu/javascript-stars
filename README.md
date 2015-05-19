@@ -1,7 +1,6 @@
 # Javascript-Stars
-==============
 
-my stared javascript libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+My stared javascript libraries. Inspired by [awesome-python](https://github.com/vinta/awesome-python).
 
 - [Javascript Stars](#javascript-stars)
     - [Animation](#animation)
@@ -25,14 +24,14 @@ my stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ---
 ## Animation
-* [stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 * [velocity](https://github.com/julianshapiro/velocity) - Accelerated JavaScript animation
+* [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms 
+* [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
 * [bounce.js](https://github.com/tictail/bounce.js) - Create beautiful CSS3 powered animations in no time
 * [motorcortexjs](https://github.com/andreas-trad/motorcortexjs) - web animations made easy
-* [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
 * [rebound-js](https://github.com/facebook/rebound-js) - Spring dynamics in JavaScript
-* [impulse](https://github.com/luster-io/impulse) - Dynamic Physics Interactions for the Mobile Web
-* [snabbt.js](https://github.com/daniel-lundin/snabbt.js) - Fast animations with javascript and CSS transforms 
+* [jquery.transit](https://github.com/rstacruz/jquery.transit) - Super-smooth CSS3 transformations and transitions for jQuery
+* [stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 
 
 ## Component

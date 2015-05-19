@@ -11,6 +11,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
     - [Editor](#editor)
     - [Effect](#effect)
     - [Framework](#framework)
+    - [Guide](#guide)
     - [HTML5](#html5)
     - [Layout](#layout)
     - [Media](#media)
@@ -85,7 +86,6 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window 
 * [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript 
 
-
 ## Framework
 * [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
 * [anijs](https://github.com/anijs/anijs) - A Library to Raise your Web Design without Coding
@@ -95,6 +95,11 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
 * [polymer](https://github.com/Polymer/polymer) - Leverage the future of the web platform today
 * [starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit (Beta)
+
+## Guide
+* [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
+* [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps
+* [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app #hubspot-open-source
 
 ## HTML5
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG
@@ -116,36 +121,32 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ## Media
 * [popcorn-js](https://github.com/mozilla/popcorn-js) - The HTML5 Media Framework
-* [SoundManager2](https://github.com/scottschiller/SoundManager2) - A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 11 KB. BSD licensed.
-* [jquery_lazyload](https://github.com/tuupola/jquery_lazyload) - jQuery plugin for lazy loading images
 * [video.js](https://github.com/videojs/video.js) - Video.js - open source HTML5 & Flash video player
 * [plyr](https://github.com/Selz/plyr) - A simple HTML5 media player 
-
+* [SoundManager2](https://github.com/scottschiller/SoundManager2) - A JavaScript Sound API supporting MP3, MPEG4 and HTML5 audio + RTMP, providing reliable cross-browser/platform audio control in as little as 11 KB. BSD licensed.
+* [jquery_lazyload](https://github.com/tuupola/jquery_lazyload) - jQuery plugin for lazy loading images
 
 ## Mobile
-* [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
-* [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
-* [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). 
 * [reapp](https://github.com/reapp/reapp) - Reapp - next gen hybrid apps 
+* [hammer.js](https://github.com/hammerjs/hammer.js) - A javascript library for multi-touch gestures :// You can touch this
+* [skrollr](https://github.com/Prinzhorn/skrollr) - Stand-alone parallax scrolling library for mobile (Android + iOS) and desktop. No jQuery. Just plain JavaScript (and some love). 
 * [Swiper](https://github.com/nolimits4web/Swiper) - Most modern mobile touch slider with hardware accelerated transitions 
 * [slideout](https://github.com/Mango/slideout) - A touch slideout navigation menu for your mobile web apps. 
+* [Leaflet](https://github.com/Leaflet/Leaflet) - JavaScript library for mobile-friendly interactive maps
 
 ## Notification
 * [alertify.js](https://github.com/fabien-d/alertify.js) - JavaScript Alert/Notification System 
-* [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 * [sweetalert](https://github.com/t4t5/sweetalert) - A beautiful replacement for JavaScript's "alert"
 * [pnotify](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft. 
-
+* [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 
 ## Presentation
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 * [Sequence](https://github.com/IanLunn/Sequence) - Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications. 
-* [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript
-* [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps
-* [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app #hubspot-open-source
-* [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface: 
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
+* [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript
+
 
 ## Popovers
 * [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips

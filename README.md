@@ -15,6 +15,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
     - [HTML5](#html5)
     - [Interaction](#interaction)
     - [Layout](#layout)
+    - [Optimization](#optimization)
     - [Math](#math)
     - [Media](#media)
     - [Mobile](#mobile)
@@ -162,6 +163,11 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [pnotify](https://github.com/sciactive/pnotify) - JavaScript notifications for Bootstrap, jQuery UI, and the Web Notifications Draft. 
 * [favico.js](https://github.com/ejci/favico.js) - Make use of your favicon with badges, images or videos
 
+## Optimization
+* [fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
+* [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
+* [sprint](https://github.com/bendc/sprint) - A tiny, lightning fast jQuery-like library for modern browsers.
+
 ## Presentation
 * [reveal.js](https://github.com/hakimel/reveal.js) - The HTML Presentation Framework
 * [Sequence](https://github.com/IanLunn/Sequence) - Responsive animation framework for creating unique sliders, presentations, banners, and other step-based applications. 
@@ -212,12 +218,6 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
 * [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
 * [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
-
-## Opotimization
-* [fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
-* [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
-* [sprint](https://github.com/bendc/sprint) - A tiny, lightning fast jQuery-like library for modern browsers.
-
 
 ## Utils
 * [date](https://github.com/matthewmueller/date) - Date() for humans 

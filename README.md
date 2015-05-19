@@ -119,6 +119,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 ## Interaction
 * [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript 
 * [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key. 
+* [instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant. 
 * [annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition.
 * [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time. 
 
@@ -129,11 +130,16 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [onepage-scroll](https://github.com/peachananr/onepage-scroll) - Create an Apple-like one page scroller website (iPhone 5S website) with One Page Scroll plugin
 * [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 * [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
+* [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager) - A responsive state manager which allows you to run different javascript at different browser widths
 * [holder](https://github.com/imsky/holder) - Client-side image placeholders. 
 
 ## Math
 * [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js 
 * [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript 
+* [javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A finite state machine javascript micro framework
+* [brain](https://github.com/harthur/brain) - Neural networks in JavaScript
+* [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
+
 
 ## Media
 * [popcorn-js](https://github.com/mozilla/popcorn-js) - The HTML5 Media Framework
@@ -207,28 +213,24 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
 * [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
 
-## Utils
-* [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
-* [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
-* [SimpleStateManager](https://github.com/SimpleStateManager/SimpleStateManager) - A responsive state manager which allows you to run different javascript at different browser widths
-* [ouibounce](https://github.com/carlsednaoui/ouibounce) - Increase your landing page conversion rates
-* [boba.js](https://github.com/space150/boba.js) - Need those links tracked? "As you wish."
-* [outdated-browser](https://github.com/burocratik/outdated-browser) - A simple tool to identify and upgrade old browsers
-* [node-browserify](https://github.com/substack/node-browserify) - browser-side require() the node.js way
-* [Respond](https://github.com/scottjehl/Respond) - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
-* [enquire.js](https://github.com/WickyNilliams/enquire.js) - Awesome Media Queries in JavaScript 
-* [javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A finite state machine javascript micro framework
-* [instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant. 
-* [date](https://github.com/matthewmueller/date) - Date() for humans 
+## Opotimization
 * [fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
-* [brain](https://github.com/harthur/brain) - Neural networks in JavaScript
-* [hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect 
-* [101](https://github.com/tjmehta/101) - A modern JS utility library
-* [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript 
-* [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
-* [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 * [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 * [sprint](https://github.com/bendc/sprint) - A tiny, lightning fast jQuery-like library for modern browsers.
+
+
+## Utils
+* [date](https://github.com/matthewmueller/date) - Date() for humans 
+* [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
+* [101](https://github.com/tjmehta/101) - A modern JS utility library
+* [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
+* [boba.js](https://github.com/space150/boba.js) - Need those links tracked? "As you wish."
+* [Respond](https://github.com/scottjehl/Respond) - A fast & lightweight polyfill for min/max-width CSS3 Media Queries (for IE 6-8, and more)
+* [enquire.js](https://github.com/WickyNilliams/enquire.js) - Awesome Media Queries in JavaScript 
+* [outdated-browser](https://github.com/burocratik/outdated-browser) - A simple tool to identify and upgrade old browsers
+* [hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect 
+* [ouibounce](https://github.com/carlsednaoui/ouibounce) - Increase your landing page conversion rates
+* [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
 
 ## Style Guide
 * [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide

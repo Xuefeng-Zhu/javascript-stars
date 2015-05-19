@@ -24,6 +24,8 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
     - [Test](#test)
     - [Visualization](#visualization)
     - [Utils](#utils)
+    - [Style Guide](#style-guide)
+    - [Sample Code](#sample-code)
     - [Reference](#reference)
     
 
@@ -223,27 +225,31 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition.
 
 
+## Style Guide
+* [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
+* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
+* [js](https://github.com/bevacqua/js) - A JavaScript Quality Guide
+* [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
+* [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
+* [react-primer-draft](https://github.com/mikechau/react-primer-draft) - A primer for building web applications with React.
+
+## Sample Code
+* [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
+* [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - classic data structures implemented in javascript.
+* [collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
+* [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
+* [jquery-annotated-source](https://github.com/robflaherty/jquery-annotated-source) - jQuery Annotated Source
+
 ## Reference
 * [WebFundamentals](https://github.com/google/WebFundamentals) - Best practices for modern web development
-* [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
-* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
-* [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 * [jstutorial](https://github.com/ruanyf/jstutorial) - Javascript tutorial book
-* [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
-* [js](https://github.com/bevacqua/js) - A JavaScript Quality Guide
 * [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS) - A book series on JavaScript. @YDKJS on twitter.
 * [Front-end-Developer-Interview-Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions) - A list of helpful front-end related questions you can use to interview potential candidates, test yourself or completely ignore. 
-* [es6features](https://github.com/lukehoban/es6features) - Overview of ECMAScript 6 features
-* [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
-* [idiomatic.js](https://github.com/rwaldron/idiomatic.js) - Principles of Writing Consistent, Idiomatic JavaScript
-* [javascript-patterns](https://github.com/shichuan/javascript-patterns) - JavaScript Patterns
-* [frontend-guidelines](https://github.com/bendc/frontend-guidelines) - Some HTML, CSS and JS best practices.
+* [js-must-watch](https://github.com/bolshchikov/js-must-watch) - Must-watch videos about javascript
+* [frontend-dev-bookmarks](https://github.com/dypsilon/frontend-dev-bookmarks) - A huge list of frontend development resources I collected over time. Sorted from general knowledge at the top to concrete problems at the bottom.
 * [frontend-stuff](https://github.com/moklick/frontend-stuff) - A continuously expanded list of framework/libraries and tools I used/want to use when building things on the web. Mostly Javascript stuff.
-* [react-primer-draft](https://github.com/mikechau/react-primer-draft) - A primer for building web applications with React.
-* [collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
-* [jquery-annotated-source](https://github.com/robflaherty/jquery-annotated-source) - jQuery Annotated Source
-* [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - classic data structures implemented in javascript.
-* [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
+* [awesome-javascript](https://github.com/sorrycc/awesome-javascript) - A collection of awesome browser-side JavaScript libraries, resources and shiny things.
+* [awesome-svg](https://github.com/willianjusten/awesome-svg) - A curated list of SVG.
 
 
 

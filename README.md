@@ -172,9 +172,9 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [Parallax-ImageScroll](https://github.com/pederan/Parallax-ImageScroll) - JQuery and amd compatible plugin to create a parallax effect as seen at spotify.com
 
 ## Test
+* [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework
 * [Vorlonjs](https://github.com/MicrosoftDX/Vorlonjs) - A new, open source, extensible, platform-agnostic tool for remotely debugging and testing your JavaScript. Powered by node.js and socket.io 
-* [jasmine](https://github.com/jasmine/jasmine) - DOM-less simple JavaScript testing framework
 * [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 
 ## Visualization

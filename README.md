@@ -13,7 +13,9 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
     - [Framework](#framework)
     - [Guide](#guide)
     - [HTML5](#html5)
+    - [Interaction](#interaction)
     - [Layout](#layout)
+    - [Math](#math)
     - [Media](#media)
     - [Mobile](#mobile)
     - [Notification](#notification)
@@ -113,6 +115,11 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [CamanJS](https://github.com/meltingice/CamanJS) - Javascript HTML5 (Ca)nvas (Man)ipulation 
 * [matter-js](https://github.com/liabru/matter-js) - a 2D rigid body physics engine for the web
 * [HTML-GL](https://github.com/PixelsCommander/HTML-GL) - Get as many FPS as you need and amazing effects by rendering HTML/CSS in WebGL
+
+## Interaction
+* [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript 
+* [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key. 
+* [annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition.
 * [togetherjs](https://github.com/mozilla/togetherjs) - A service for your website that makes it surprisingly easy to collaborate in real-time. 
 
 ## Layout
@@ -123,6 +130,10 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [gridster.js](https://github.com/ducksboard/gridster.js) - gridster.js is a jQuery plugin that makes building intuitive draggable layouts from elements spanning multiple columns
 * [fit.js](https://github.com/soulwire/fit.js) - Fit things into other things
 * [holder](https://github.com/imsky/holder) - Client-side image placeholders. 
+
+## Math
+* [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js 
+* [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript 
 
 ## Media
 * [popcorn-js](https://github.com/mozilla/popcorn-js) - The HTML5 Media Framework
@@ -196,7 +207,6 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
 * [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
 
-
 ## Utils
 * [JSVerbalExpressions](https://github.com/VerbalExpressions/JSVerbalExpressions) - JavaScript Regular expressions made easy
 * [ocrad.js](https://github.com/antimatter15/ocrad.js) - OCR in Javascript via Emscripten
@@ -209,21 +219,16 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [enquire.js](https://github.com/WickyNilliams/enquire.js) - Awesome Media Queries in JavaScript 
 * [javascript-state-machine](https://github.com/jakesgordon/javascript-state-machine) - A finite state machine javascript micro framework
 * [instantclick](https://github.com/dieulot/instantclick) - InstantClick makes following links in your website instant. 
-* [Keypress](https://github.com/dmauro/Keypress) - A keyboard input capturing utility in which any key can be a modifier key. 
 * [date](https://github.com/matthewmueller/date) - Date() for humans 
 * [fast.js](https://github.com/codemix/fast.js) - Faster user-land reimplementations for several common builtin native JavaScript functions.
 * [brain](https://github.com/harthur/brain) - Neural networks in JavaScript
 * [hello.js](https://github.com/MrSwitch/hello.js) - A Javascript RESTFUL API library for connecting with OAuth2 services, such as Google+ API, Facebook Graph and Windows Live Connect 
-* [mathjs](https://github.com/josdejong/mathjs) - An extensive math library for JavaScript and Node.js 
 * [101](https://github.com/tjmehta/101) - A modern JS utility library
 * [decimal.js](https://github.com/MikeMcl/decimal.js) - An arbitrary-precision Decimal type for JavaScript 
 * [fantasy-land](https://github.com/fantasyland/fantasy-land) - Specification for interoperability of common algebraic structures in JavaScript
 * [is.js](https://github.com/arasatasaygin/is.js) - Micro check library
 * [virtual-dom](https://github.com/Matt-Esch/virtual-dom) - A Virtual DOM and diffing algorithm
 * [sprint](https://github.com/bendc/sprint) - A tiny, lightning fast jQuery-like library for modern browsers.
-* [mousetrap](https://github.com/ccampbell/mousetrap) - Simple library for handling keyboard shortcuts in Javascript 
-* [annyang](https://github.com/TalAter/annyang) - A javascript library for adding voice commands to your site, using speech recognition.
-
 
 ## Style Guide
 * [airbnb/javascript](https://github.com/airbnb/javascript) - JavaScript Style Guide
@@ -238,6 +243,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [data-structure-with-js](https://github.com/LukeLin/data-structure-with-js) - classic data structures implemented in javascript.
 * [collections](https://github.com/montagejs/collections) - This package contains JavaScript implementations of common data structures with idiomatic interfaces.
 * [computer-science-in-javascript](https://github.com/nzakas/computer-science-in-javascript) - Collection of classic computer science paradigms, algorithms, and approaches written in JavaScript.
+* [algorithms.js](https://github.com/felipernb/algorithms.js) - Atwood's Law applied to CS101 - Classic algorithms and data structures implemented in JavaScript
 * [jquery-annotated-source](https://github.com/robflaherty/jquery-annotated-source) - jQuery Annotated Source
 
 ## Reference

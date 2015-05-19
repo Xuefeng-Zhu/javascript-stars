@@ -52,6 +52,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 * [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
 * [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin 
+* [gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps 
 
 ## Data
 * [defiant.js](https://github.com/hbi99/defiant.js) - DefiantJS provides the ability for you to build smart templates applicable on JSON structures, based upon proven & standardized technologies such as XSLT and XPath.
@@ -86,6 +87,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated low-poly triangle backgrounds
 * [rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window 
 * [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript 
+* [randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive random colors
 
 ## Framework
 * [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
@@ -178,20 +180,18 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [perfmap](https://github.com/zeman/perfmap) - Front-end performance heatmap bookmarklet.
 
 ## Visualization
-* [kartograph.js](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps
 * [Chart.js](https://github.com/nnnick/Chart.js) - Simple HTML5 Charts using the canvas tag
 * [echarts](https://github.com/ecomfe/echarts) - Enterprise Charts | Github pages
 * [c3](https://github.com/masayuki0812/c3) - A D3-based reusable chart library 
 * [d3plus](https://github.com/alexandersimoes/d3plus) - A javascript library that extends D3.js to enable fast and beautiful visualizations.
+* [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts. 
 * [vis](https://github.com/almende/vis) - Dynamic, browser-based visualization library 
-* [randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive random colors
-* [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
-* [gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps 
+* [kartograph.js](https://github.com/kartograph/kartograph.js) - Open source JavaScript renderer for Kartograph SVG maps
 * [p5.js](https://github.com/processing/p5.js) - A JS client-side library for creating graphic and interactive experiences, based on the core principles of Processing
 * [timesheet.js](https://github.com/sbstjn/timesheet.js) - JavaScript library for HTML5 & CSS3 time sheets 
-* [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts. 
 * [regulex](https://github.com/JexCheng/regulex) - JavaScript Regular Expression Parser & Visualizer.
 * [mermaid](https://github.com/knsv/mermaid) - Generation of diagram and flowchart from text in a similar manner as markdown 
+* [raw](https://github.com/densitydesign/raw) - The missing link between spreadsheets and vector graphics
 * [charted](https://github.com/mikesall/charted) - A charting tool that produces automatic, shareable charts from any data file 
 
 

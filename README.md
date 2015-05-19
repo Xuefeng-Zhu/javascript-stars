@@ -48,6 +48,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [side-comments](https://github.com/aroc/side-comments) - An interface component to give your site/app Medium.com style commenting
 * [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library 
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
+* [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
 
 ## Data
 * [defiant.js](https://github.com/hbi99/defiant.js) - DefiantJS provides the ability for you to build smart templates applicable on JSON structures, based upon proven & standardized technologies such as XSLT and XPath.
@@ -81,13 +82,13 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 ## Framework
 * [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
 * [anijs](https://github.com/anijs/anijs) - A Library to Raise your Web Design without Coding
+* [uilang](https://github.com/bendc/uilang) - A minimal, UI-focused programming language for web designers
+* [tessera](https://github.com/urbanairship/tessera) - A dashboard front-end for graphite. 
+* [toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp. 
 * [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
-* [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
 * [polymer](https://github.com/Polymer/polymer) - Leverage the future of the web platform today
 * [starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit (Beta)
-* [tessera](https://github.com/urbanairship/tessera) - A dashboard front-end for graphite. 
-* [uilang](https://github.com/bendc/uilang) - A minimal, UI-focused programming language for web designers
-* [toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp. 
+
 
 ## HTML5
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG

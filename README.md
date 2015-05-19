@@ -51,6 +51,7 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library 
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
 * [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
+* [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin 
 
 ## Data
 * [defiant.js](https://github.com/hbi99/defiant.js) - DefiantJS provides the ability for you to build smart templates applicable on JSON structures, based upon proven & standardized technologies such as XSLT and XPath.
@@ -147,7 +148,6 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [bespoke.js](https://github.com/markdalgleish/bespoke.js) - DIY Presentation Micro-Framework
 * [TimelineJS](https://github.com/NUKnightLab/TimelineJS) - TimelineJS: A Storytelling Timeline built in JavaScript
 
-
 ## Popovers
 * [qTip2](https://github.com/qTip2/qTip2) - qTip2 - Pretty powerful tooltips
 * [jBox](https://github.com/StephanWagner/jBox) - jBox is a powerful and flexible jQuery plugin, taking care of all your popup windows, tooltips, notices and more.
@@ -163,14 +163,13 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ## Scroll
 * [steady.js](https://github.com/WPOTools/steady.js) - A module to do some logic on the `onscroll` event without performance regressions in a @media-query like conditions. 
-* [Parallax-ImageScroll](https://github.com/pederan/Parallax-ImageScroll) - JQuery and amd compatible plugin to create a parallax effect as seen at spotify.com
-* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Easily reveal elements as they enter the viewport
 * [waypoints](https://github.com/imakewebthings/waypoints) - Waypoints is a library that makes it easy to execute a function whenever you scroll to an element.
-* [ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions
-* [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin 
+* [scrollReveal.js](https://github.com/julianlloyd/scrollReveal.js) - Easily reveal elements as they enter the viewport
 * [WOW](https://github.com/matthieua/WOW) - Reveal CSS animation as you scroll down a page
-* [scrollup](https://github.com/markgoodyear/scrollup) - A jQuery plugin to create a customisable 'Scroll to top' feature that will work with any website
+* [ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions
 * [space.js](https://github.com/gopatrik/space.js) - A HTML-driven JavaScript-library for narrative 3D-scrolling. 
+* [scrollup](https://github.com/markgoodyear/scrollup) - A jQuery plugin to create a customisable 'Scroll to top' feature that will work with any website
+* [Parallax-ImageScroll](https://github.com/pederan/Parallax-ImageScroll) - JQuery and amd compatible plugin to create a parallax effect as seen at spotify.com
 
 ## Test
 * [jest](https://github.com/facebook/jest) - Painless JavaScript Unit Testing built on top of the Jasmine test framework

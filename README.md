@@ -4,15 +4,15 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 - [Javascript Stars](#javascript-stars)
     - [Animation](#animation)
+    - [Effect](#effect)
+    - [UI Libary](#ui-libary)
     - [Carousel](#carousel)
     - [Component](#component)
     - [Data](#data)
     - [Drag&Drop](#drag&drop)
     - [Editor](#editor)
-    - [Effect](#effect)
-    - [Framework](#framework)
     - [Guide](#guide)
-    - [HTML5](#html5)
+    - [SVG&Canvas](#svg&canvas)
     - [Interaction](#interaction)
     - [Layout](#layout)
     - [Optimization](#optimization)
@@ -43,6 +43,28 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [motorcortexjs](https://github.com/andreas-trad/motorcortexjs) - web animations made easy
 * [stroll.js](https://github.com/hakimel/stroll.js) - CSS3 list scroll effects
 
+## Effect
+* [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design 
+* [shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
+* [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
+* [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
+* [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
+* [Fluidbox](https://github.com/terrymun/Fluidbox) - Replicating and improving the lightbox module seen on Medium with fluid transitions.
+* [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated low-poly triangle backgrounds
+* [rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window 
+* [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript 
+* [randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive random colors
+
+## UI Libary
+* [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
+* [anijs](https://github.com/anijs/anijs) - A Library to Raise your Web Design without Coding
+* [uilang](https://github.com/bendc/uilang) - A minimal, UI-focused programming language for web designers
+* [tessera](https://github.com/urbanairship/tessera) - A dashboard front-end for graphite. 
+* [toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp. 
+* [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
+* [polymer](https://github.com/Polymer/polymer) - Leverage the future of the web platform today
+* [starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit (Beta)
+
 ## Carousel
 * [OwlCarousel](https://github.com/OwlFonk/OwlCarousel) - Owl Carousel. Touch enabled jQuery plugin that lets you create beautiful responsive carousel slider.
 * [rollerblade](https://github.com/austenpayan/rollerblade) - A jQuery plugin for creating an interactive 360º image rotator.
@@ -50,13 +72,13 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent 
 
 ## Component
-* [card](https://github.com/jessepollak/card) - make your credit card form better in one line of code
+* [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
 * [list.js](https://github.com/javve/list.js) - The perfect library for adding search, sort, filters and flexibility to tables, lists and various HTML elements. Built to be invisible and work on existing HTML. 
-* [side-comments](https://github.com/aroc/side-comments) - An interface component to give your site/app Medium.com style commenting
 * [typeahead.js](https://github.com/twitter/typeahead.js) - typeahead.js is a fast and fully-featured autocomplete library 
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies.
-* [brick](https://github.com/mozbrick/brick) - UI Web Components for Modern Web Apps
 * [perfect-scrollbar](https://github.com/noraesae/perfect-scrollbar) - Minimalistic but perfect custom scrollbar plugin 
+* [side-comments](https://github.com/aroc/side-comments) - An interface component to give your site/app Medium.com style commenting
+* [card](https://github.com/jessepollak/card) - make your credit card form better in one line of code
 * [gmaps](https://github.com/hpneo/gmaps) - the easiest way to use Google Maps 
 
 ## Data
@@ -70,10 +92,10 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 
 ## Drag&Drop
 * [dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
-* [sharedrop](https://github.com/cowbell/sharedrop) - HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC 
 * [dragula](https://github.com/bevacqua/dragula) - :helicopter: Drag and drop so simple it hurts 
-* [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
 * [interact.js](https://github.com/taye/interact.js) - JavaScript drag and drop, resizing and multi-touch gestures with inertia and snapping for modern browsers (and also IE8+) 
+* [Sortable](https://github.com/RubaXa/Sortable) - Sortable — is a minimalist JavaScript library for reorderable drag-and-drop lists on modern browsers and touch devices. No jQuery. Supports Meteor, AngularJS, React and any CSS library, e.g. Bootstrap.
+* [sharedrop](https://github.com/cowbell/sharedrop) - HTML5 clone of Apple's AirDrop - easy P2P file transfer powered by WebRTC 
 
 ## Editor
 * [create](https://github.com/bergie/create) - Midgard Create, a generic web editing interface for any CMS
@@ -82,34 +104,12 @@ My stared javascript libraries. Inspired by [awesome-python](https://github.com/
 * [At.js](https://github.com/ichord/At.js) - Add Github like mentions autocomplete to your application. 
 * [write-good](https://github.com/btford/write-good) - Naive linter for English prose
 
-## Effect
-* [Waves](https://github.com/fians/Waves) - Click effect inspired by Google's Material Design 
-* [shine.js](https://github.com/bigspaceship/shine.js) - A library for pretty shadows
-* [textillate](https://github.com/jschr/textillate) - A simple plugin for CSS3 text animations
-* [fancyInput](https://github.com/yairEO/fancyInput) - Makes typing in input fields fun with CSS3 effects
-* [parallax](https://github.com/wagerfield/parallax) - Parallax Engine that reacts to the orientation of a smart device
-* [Fluidbox](https://github.com/terrymun/Fluidbox) - Replicating and improving the lightbox module seen on Medium with fluid transitions.
-* [trianglify](https://github.com/qrohlf/trianglify) - Algorithmically generated low-poly triangle backgrounds
-* [rainyday.js](https://github.com/maroslaw/rainyday.js) - Simulating raindrops falling on a window 
-* [rainbow](https://github.com/ccampbell/rainbow) - Simple syntax highlighting library written in javascript 
-* [randomColor](https://github.com/davidmerfield/randomColor) - A tiny script for generating attractive random colors
-
-## Framework
-* [famous](https://github.com/Famous/famous) - Famo.us is a JavaScript platform for everyone who wants to build beautiful experiences on any device
-* [anijs](https://github.com/anijs/anijs) - A Library to Raise your Web Design without Coding
-* [uilang](https://github.com/bendc/uilang) - A minimal, UI-focused programming language for web designers
-* [tessera](https://github.com/urbanairship/tessera) - A dashboard front-end for graphite. 
-* [toolkit](https://github.com/titon/toolkit) - A front-end UI toolkit built with HTML5, CSS3, jQuery, Sass and Gulp. 
-* [winjs](https://github.com/winjs/winjs) - A UI toolkit for modern browsers
-* [polymer](https://github.com/Polymer/polymer) - Leverage the future of the web platform today
-* [starter-kit](https://developers.google.com/web/starter-kit/) - Google Web Starter Kit (Beta)
-
 ## Guide
 * [intro.js](https://github.com/usablica/intro.js) - A better way for new feature introduction and step-by-step users guide for your website and project.
 * [chardin.js](https://github.com/heelhook/chardin.js) - Simple overlay instructions for your apps
 * [shepherd](https://github.com/HubSpot/shepherd) - Guide your users through a tour of your app #hubspot-open-source
 
-## HTML5
+## SVG&Canvas
 * [svg.js](https://github.com/wout/svg.js) - A lightweight library for manipulating and animating SVG
 * [Snap.svg](https://github.com/adobe-webplatform/Snap.svg) - The JavaScript library for modern SVG graphics. 
 * [fabric.js](https://github.com/kangax/fabric.js) - Javascript Canvas Library, SVG-to-Canvas (& canvas-to-SVG) Parser 
